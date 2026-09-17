@@ -5,4 +5,4 @@ csv格式物件语法高亮插件
 
 使用方法：下载列表中的csv model.xml，导入notepad++
 
-下载：https://github.com/njfdCRH1A/openbve-csv-/releases/tag/V0.1 
+下载：https://github.com/CRH1A-A-1186/openbve-csv-/releases/tag/V0.1 
